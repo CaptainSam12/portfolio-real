@@ -8,6 +8,7 @@ permalink: /tools/journey
 ---
 
 # My Journey
+# What we will be covering:
 <hr>
 Hello friends, this is my first attempt creating a personal blog! Hope you like it!
 
