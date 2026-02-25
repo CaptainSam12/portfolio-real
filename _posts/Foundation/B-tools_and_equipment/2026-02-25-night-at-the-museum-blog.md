@@ -75,7 +75,7 @@ Let me explain these pictures:
 
 2: A CSP multiplayer game.
 
-3: Our class's game (This picture is actually of our level, level 2) I will link the game down below!
+3: Our class's game (This picture is actually of our level, level 2) I will link the game down at the bottom! (Under the picture of artwork)
 
 4: A CSP Project about AI prompting
 
@@ -98,3 +98,12 @@ Outside of CS
 Outside of the CS classrooms, I found a lot more things, there was art, photography, pottery. A walkthrough type gallery. The students were all very passionate to share their work, and they all offered good advice and help for future endeavors. 
 
 <img src="{{site.baseurl}}/images/NATMART.png" style="height:500px; margin-right:250px;">
+
+Link to our Murder Mystery Game!
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://pages.opencodingsociety.com/gamify/murderMystery" style="text-decoration: none;">
+        <div style="background-color: #ac2308; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Murder Mystery Game
+        </div>
+    </a>
